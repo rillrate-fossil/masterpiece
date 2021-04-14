@@ -1,0 +1,11 @@
+[package]
+name = "masterpiece"
+version = "0.1.0"
+authors = ["Denis Kolodin <deniskolodin@gmail.com>"]
+edition = "2018"
+description = "Live charts (WASM)"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/rillrate/masterpiece"
+
+[dependencies]
